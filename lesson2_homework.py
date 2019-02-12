@@ -51,6 +51,13 @@ print "Sorted numbers = ", numb_range
 numb_range.sort(reverse=True)
 print "Reversed numbers = ", numb_range
 
+
 # sum min and max numbers
 sum_min_max = min(numb_range) + max(numb_range)
 print "Sum min and max = ", sum_min_max
+
+#test jkdfhgkjdhg
+
+new = range(12)
+for i in new:
+    print i
